@@ -1,4 +1,4 @@
-#This project housing 2 different basic-level LLM bots with different LLM models. I used LangChain framework on Python for creating RAG chains.
+# This project housing 2 different basic-level LLM bots with different LLM models. I used LangChain framework on Python for creating RAG chains.
 
 1-) GPT4-ALL mistralai/Mistral-7B-Instruct-v0.1 architecture
 -Supported with PDF formatted data about portfolio optimization in Turkish.
